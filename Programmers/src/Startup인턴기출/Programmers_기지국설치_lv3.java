@@ -19,7 +19,7 @@ public class Programmers_기지국설치_lv3 {
     }
 
     public static void main(String[] args) {
-        int[] station = {9};
+        int[] station = {0};
         System.out.println(solution(16,station,2));
     }
 }
